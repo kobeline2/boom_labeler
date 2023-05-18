@@ -1,1 +1,0 @@
-filePath = "sample_img";
