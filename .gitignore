@@ -1,6 +1,6 @@
 /memo/
 
-*.ipynb
+# *.ipynb
 *.asv
 *.geojson
 
